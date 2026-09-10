@@ -1,0 +1,18 @@
+# Ren'Py runtime
+cache/
+saves/
+*.rpyc
+*.rpymc
+*.rpyb
+log.txt
+errors.txt
+traceback.txt
+*.save
+
+# Local image backups (not needed to play)
+game/images/_backup_*/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
